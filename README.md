@@ -1,13 +1,13 @@
 # Usage
-### I'm too occupied to make a proper readme but to use this script, simply run the the following commands
 
-```pip3 install requirements.txt
+### Quick Start Guide
 
-```
+I haven't had the time to write a detailed README, but here's how to use this script:
 
-```
-python3 summarize.py <replace with location of your pdf> <replace with the the name of the environement variable where your api key is stored>
-```
+1. Install the required dependencies:
+   ```bash
+   	pip3 install -r requirements.txt
+	python3 summarize.py <path_to_your_pdf> <env_variable_name_for_api_key>
 
 
 will update soon 😅
